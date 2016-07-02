@@ -7,7 +7,7 @@ package prueba.pkg1.pkg1;
 
 /**
  *
- * @author TOSHIBA
+ * @author EngPaul
  */
 public class Prueba11 {
 
